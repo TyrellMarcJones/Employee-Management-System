@@ -1,3 +1,20 @@
+/**
+ * @file Source.cpp
+ *
+ * Source document for a console employee management system application
+ *
+ * Sept 24th, 2022
+ * @author Tyrell Jones
+ * Contact: tyrellmarcjones@gmail.com
+ *
+ *
+ *
+ *
+ *
+ *
+ */
+
+
 #include <iostream>
 #include <fstream>
 #include <cstring>
